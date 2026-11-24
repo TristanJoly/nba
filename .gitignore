@@ -1,0 +1,15 @@
+# données générées (trop lourdes pour GitHub : se reconstruisent avec `python main.py`)
+*.db
+*.db-shm
+*.db-wal
+*.gexf
+*.log
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# outils locaux
+.claude/
+.vscode/
